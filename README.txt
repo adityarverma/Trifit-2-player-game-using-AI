@@ -22,7 +22,7 @@ You will have initially 8 stones to place on board (one in each turn).
 * Player which make opponent player run out of stones win.
 
 
-For query/issues contact: arvstd222@gmail.com
+For query/issues contact or open github issue: arvstd222@gmail.com
 
 
 
