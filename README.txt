@@ -21,6 +21,10 @@ You will have initially 8 stones to place on board (one in each turn).
 * All the above rules equally applies to computer.
 * Player which make opponent player run out of stones win.
 
+### Installation:- 
+download and unzip Trifit.zip file. 
+Open in android studio.
+
 
 For query/issues contact or open github issue: arvstd222@gmail.com
 
