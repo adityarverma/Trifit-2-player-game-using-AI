@@ -2,7 +2,6 @@
 
 Turn based Android game between user and computer on a grid board using Artificial Intelligence.
 
-
 ### How to Play:
 
 * 
@@ -25,8 +24,6 @@ You will have initially 8 stones to place on board (one in each turn).
 download and unzip Trifit.zip file. 
 Open in android studio.
 
-For query/issues contact or open github issue: arvstd222@gmail.com
+Project developed for artificial intelligence course during Btech in computer engineering.
 
-
-
-
+For query/issues contact or open github issue: smartadiarv@gmail.com
