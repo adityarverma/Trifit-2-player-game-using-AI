@@ -24,7 +24,8 @@ You will have initially 8 stones to place on board (one in each turn).
 ### Installation:- 
 download and unzip Trifit.zip file. 
 Open in android studio.
-
+else-
+go to link "https://drive.google.com/drive/u/2/folders/1Ipuf4O6yhmG5E9sZtlrdvXAV7vXKVsUx" to download project.
 
 For query/issues contact or open github issue: arvstd222@gmail.com
 
